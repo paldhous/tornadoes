@@ -14,7 +14,7 @@ $(function () {
         $('#container').highcharts({
             chart: {
                 zoomType: false,
-                marginLeft: 50,
+                marginLeft: 60,
                 spacingRight: 10
             },
             credits: {
